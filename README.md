@@ -1,4 +1,5 @@
-# MIL_Hashcode
+# Smart Traffic Systems
+* Kicked off as idea for MIL Hashcode 2019. 
 * Smart traffic system implemented with IoT and YOLO.
 * Implemented with Raspberry pi as interface to communicate between traffic lights and server.
 * Image captured using webcams and processed with YOLO.
